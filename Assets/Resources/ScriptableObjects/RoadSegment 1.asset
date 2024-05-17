@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84fb7d61ee0a7b54eb8cf5bfaca0f31a, type: 3}
+  m_Name: RoadSegment 1
+  m_EditorClassIdentifier: 
+  roadTiles:
+  - {fileID: 6664491273076018799, guid: fc34eec033709394ea257de19ba098c2, type: 3}
+  - {fileID: 5674273227618907905, guid: 8e19674cffd2eee4f8640f55e8207ade, type: 3}
+  - {fileID: 185194744542338105, guid: d9208b49ba071fa469a032889de92ed3, type: 3}
